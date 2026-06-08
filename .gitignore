@@ -1,0 +1,11 @@
+# Python Virtual Environment
+VenvTodo/
+__pycache__/
+*.pyc
+
+# Vue/Node Dependencies & Builds
+node_modules/
+dist/
+
+# Environment variables (for security later)
+.env
